@@ -26,7 +26,6 @@ npm install
 id=5253 node updateByModelId.js
 ```
 - exportMongo.js: 导出数据到 mongodb
-- export-data.js: 导出数据到 mongodb
 - getOneSpec.js: 根据 modelId 获取详细配置
 ```
 id=5253 node getOneSpec.js
